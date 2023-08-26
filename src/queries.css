@@ -1,0 +1,34 @@
+@media only screen and (max-width: 1200px) {
+  .pricing-section {
+    width: 900px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  .pricing-section {
+    width: 700px;
+  }
+}
+@media only screen and (max-width: 768px) {
+  .pricing-section {
+    width: 350px;
+  }
+  .price-grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .pricing-section {
+    width: 350px;
+  }
+}
+@media only screen and (max-width: 490px) {
+  .primary-heading {
+    font-size: 36px;
+  }
+}
+@media only screen and (max-width: 380px) {
+  .pricing-section {
+    width: 275px;
+  }
+}
