@@ -53,6 +53,9 @@ body {
 .read-the-docs {
   color: #888;
 }
+.primary-heading {
+  color: var(--darkgrey-color);
+}
 
 /* ///////////////////////////////////// */
 /* Pricing Section */
@@ -68,6 +71,7 @@ body {
 }
 .pricing-toggle-text {
   padding: 10px;
+  color: var(--darkgrey-color);
 }
 .switch {
   font-size: 17px;
