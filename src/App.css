@@ -169,7 +169,7 @@ body {
   margin-top: 20px;
   width: 100%;
   color: var(--light-colour);
-  border: solid 1px hsl(237, 63%, 64%);
+  border: solid 1px transparent;
   background: linear-gradient(to right, hsl(236, 72%, 79%), hsl(237, 63%, 64%));
   transition: all 0.2s;
   -webkit-transition: all 0.2s;
